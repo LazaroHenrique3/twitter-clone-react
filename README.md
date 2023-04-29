@@ -13,7 +13,7 @@ Projeto frontend React para praticar com base na videoaula do canal do youtube R
 
 ### #2
 <p align="center">
-  <img align="center" src="https://twitter-clone-react-woad.vercel.app" alt="Twitter" width="800"/>
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/235303079-72cee0d5-3322-41b9-878d-d33cee7b2c6d.PNG" alt="Twitter" width="800"/>
 </p>
 
 # Para rodar o projeto utilize o comando (**npm start**) 
