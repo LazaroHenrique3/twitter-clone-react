@@ -1,8 +1,8 @@
 # Clone UI Twitter
 
-Projeto frontend React para praticar com base na videoaula do canal do youtube Rocketseat. Aqui tive um dos primeiros contatos com Typescript, além disso foi usado styled-components para a estilização.
+Projeto frontend React para praticar com base na videoaula do canal do youtube **Rocketseat**. Aqui tive um dos primeiros contatos com Typescript, além disso foi usado styled-components para a estilização.
 
-## 👀 Deploy: <a href="https://twitter-clone-react-woad.vercel.app/">Twitter clone</a>
+## 👀 Ver deploy! 👉 <a href="https://twitter-clone-react-woad.vercel.app/">Twitter clone</a>
 
 ## 🖼 Screenshots do projeto
 
